@@ -33,18 +33,5 @@ public class StrMethods {
     System.out.println(email.substring(0,8));
     System.out.println(email.substring(0, email.indexOf("@")));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
   }
 }
